@@ -1,5 +1,5 @@
 
-## Environmental Impacts of COVID-19 on Energy Demands Across the USA in Multiple Cities. 
+## Environmental Impacts of COVID-19 on Energy Demands Across the USA in Multiple Cities.  
 
 ## Question: Whats the relationships between Energy use demands vs Time of day compared between 2020 and 2005 for cities that went into lockdown early (march-may) and those that chose to go into lockdown later or not at all;
 
