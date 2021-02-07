@@ -1,3 +1,0 @@
-api_key = "QpjAZGocydbFtgT3QulZYnhQe3DAZ3Dua8DDgOJL"
-
-eia_api_key = "de4d1a61fa13a92debcf361bcb61bb5b"
