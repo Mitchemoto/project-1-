@@ -69,8 +69,7 @@ energy as a percent of total production (19%), than the nation as a whole (16%).
 with the highest percentage renewable energy production is Idaho, with about 85% of its energy being 
 renewable. This is due to hydroelectric power infrastructure. 
 
-### South Atlantic Region (Delaware, District of Columbia, Florida, Georgia, Maryland, North Carolina
-### South Carolina, Virginia, and West Virginia)
+### South Atlantic Region (Delaware, District of Columbia, Florida, Georgia, Maryland, North Carolina, South Carolina, Virginia, and West Virginia)
 Renewable energy is rising slowly in the South Atlantic region, with the region showing a steady 
 increase from 2011-2019. Following trends in the US as a whole, the South Atlantic region saw
 a steady move from coal to natural gas, with renewable energy generation rising more slowly. At the
